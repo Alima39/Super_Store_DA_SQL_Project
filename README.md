@@ -1,7 +1,6 @@
-# Super_Store_DA_SQL_Project
 # 🎬 Super Store : Unlocking Insights for a SuperStore Business
 
-![Project Banner]()
+![Project Banner](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Image.png)
 
 ## 📌 Project Overview
 This project focuses on analyzing the *Super Store* database to extract valuable insights that can enhance business operations, marketing strategies, and inventory management. SQL is extensively used to perform exploratory data analysis (EDA), understand the database schema, and answer critical business queries.

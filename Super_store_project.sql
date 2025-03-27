@@ -58,12 +58,11 @@ group by p.product_name
 order by total_qty desc
 limit 3;
 
--- List all orders where total discount is greater than 2%
+-- List all orders where discount is greater than 0.5
 
 SELECT Order_ID, SUM(Discount) AS Total_Discount
 FROM Order_Details 
-GROUP BY Order_ID
-HAVING SUM(Discount) > 2;
+where Discount > 0.5;
 
 -- Find the first and last order date for each customer
 

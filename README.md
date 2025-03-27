@@ -55,42 +55,42 @@ This repository contains SQL queries and corresponding visualizations for analyz
 
 ### 1. Get total sales per customer.
 
-![Customer Info](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/EMAIL_ID_LIST.png)
+![Total Sales](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Sales_per_Customer.PNG)
 
 ### 2. Find the most profitable product.
-![Cheapest Rental](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/Rental%20rate%20and%20Movie%20Count.PNG))
+![Profitable product](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Profitable%20Product.PNG)
 
 ### 3. Get total sales by category.
-![Total Movies per Rental Rate](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/TOTAL_NO_OF_MOVIES.png)
+![Total Sales by category](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Total_Sales_by_Category.PNG)
 
 ### 4. Retrieve top 5 cities with the highest sales.
-![Rating Count](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/Most%20Common%20Movie%20Rating.PNG)
+![Top Cities with highest Sales](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Top_Cities_with_HighestSales.PNG)
 
 ### 5. Identify repeat customers (who placed more than 10 orders).
-![Rating per Store](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/Prevalent%20Rating%20per%20Store.PNG)
+![Repeat customes](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Repeated_Customers.PNG)
 
 ### 6. Get the top 3 products with the highest quantity sold.
-![Film List](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/TLC.png)
+![Top Products](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Top_products_with_Highest_Quantity_Sold.PNG)
 
 ### 7. List all orders where total discount is greater than 2%.
-![Rental Popularity](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/popularity.png)
+![Total Discount](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Orders_with_Discount.PNG)
 
 ### 8. Find the first and last order date for each customer
-![Revenue per Film](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/REVENUE.png)
+![Order dates per customer](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Order_dates.PNG)
 
 ### 9. Get the ranking of products by revenue.
-![Most Spending Customer](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/MOST_SPENDING_CUSTOMER.png)
+![Rank of products](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Total_Revenue.PNG)
 
 ### 10. Find all loss-making orders (where total profit is negative)
-![Highest Revenue Store](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/MOST_REVENUE.png)
+![Loss making orders](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Loss_Making_Orders.PNG)
 
 ### 11. Get customers who have purchased more than 10 unique products.
-![Rentals Per Month](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/RENTALS_PER_MONTH.png)
+![customers with unique products](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Purchased_no_of_unique_products.PNG)
 
 ### 12. Calculate the average discount given per product category.
-![Reward Eligible Customers](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/REWARD_VIA_PHONE.png)
+![Avg discount per category](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/AVG_Discount_per_Category.PNG)
 
 ### 13. Find customers who placed orders for at least 3 different categories.
-![First 100 Customer Payments](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/FIRST_100_CUSTOMER_PAYMENTS.png)
+![Orders with 3 different categories](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Customers_with_3_Categories.PNG)
 
 ---

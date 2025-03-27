@@ -71,8 +71,8 @@ This repository contains SQL queries and corresponding visualizations for analyz
 ### 6. Get the top 3 products with the highest quantity sold.
 ![Top Products](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Top_products_with_Highest_Quantity_Sold.PNG)
 
-### 7. List all orders where total discount is greater than 2%.
-![Total Discount](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Orders_with_Discount.PNG)
+### 7. List all orders where discount is greater than 0.5%
+![Discount](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Discount.PNG)
 
 ### 8. Find the first and last order date for each customer
 ![Order dates per customer](https://github.com/Alima39/Super_Store_DA_SQL_Project/blob/main/Outputs/Order_dates.PNG)
